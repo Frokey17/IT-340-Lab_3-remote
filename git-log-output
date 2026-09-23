@@ -1,0 +1,31 @@
+commit c17104c82d20186258e6f2017c94fa8e3b8a0b1b
+Author: Christopher <cah54@njit.edu>
+Date:   Tue Sep 22 22:47:06 2026 -0400
+
+    Revert "Added the bean.txt file"
+    
+    This reverts commit 4afed72f0465dec3082687f141f4a41550e7236e.
+
+commit 4afed72f0465dec3082687f141f4a41550e7236e
+Author: Christopher <cah54@njit.edu>
+Date:   Tue Sep 22 22:45:40 2026 -0400
+
+    Added the bean.txt file
+
+commit b13216ef06d4a65eaa99d5a0b7e28912d36ecd30
+Author: Christopher <cah54@njit.edu>
+Date:   Tue Sep 22 22:43:37 2026 -0400
+
+    Change to the os-release file
+
+commit 7bc1fb8845c627d48b5957f8d42f55aebe98965e
+Author: Christopher <cah54@njit.edu>
+Date:   Tue Sep 22 22:20:24 2026 -0400
+
+    Changed contents of group file
+
+commit 114e48c704ccb879e68f89e5cee522ade21ad00f
+Author: Christopher <cah54@njit.edu>
+Date:   Tue Sep 22 21:52:21 2026 -0400
+
+    The 5 files for Lab_3
